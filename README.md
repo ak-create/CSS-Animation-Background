@@ -1,6 +1,7 @@
 # CSS-Animation-Background
 
 https://ak-create.github.io/CSS-Animation-Background/
+Its a Animated view of street with moving cars and background and additional toogle effect that changes day into night.
 
 
 All credit goes to the original creator of this
